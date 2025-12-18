@@ -33,14 +33,14 @@
 
 | 역할/영역 | 담당 내용 |
 |---|---|
-| 🧑‍🏫 팀장 | 일정 관리, 업무 분배, 코드 리뷰 및 프로젝트 총괄 <br/> `#Agile` `#Collaboration` `#CodeReview` |
-| 🔐 사용자 기능 | 로그인 페이지, 회원가입 페이지 UI 및 백엔드 구현 <br/> `#SessionAuth` `#Validation` `#MVC` |
-| 🛠 관리자 기능 | 관리자 게시판 구축, 공지사항 CRUD 기능 개발 <br/> `#AdminPage` `#RBAC` `#CRUD` |
-| 🗂 DB 설계 | 유저 테이블 구조 설계 <br/> `#ERD` `#PK/FK` `#Normalization` |
-| 🌐 공공데이터 연동 | 대기질 공공데이터 API 연동 및 JSON 파싱 <br/> `#OpenAPI` `#REST` `#JSONParsing` |
-| 🗺️ 지도 시각화 | Kakao Map 기반 히트맵 구현 및 좌표 변환 처리 <br/> `#KakaoMapAPI` `#Heatmap` `#GeoTransform` |
-| ⚡ 성능 최적화 | Redis 캐싱, 스케줄러 기반 데이터 자동 업데이트 <br/> `#Redis` `#Caching` `#Scheduler` |
-| 🚀 서버 배포 | AWS EC2 기반 서버 구성 및 프로젝트 배포 <br/> `#AWS` `#EC2` `#Ubuntu` `#Deploy` |
+| 🧑‍🏫 팀장 | 일정 관리, 업무 분배, 코드 리뷰 및 프로젝트 총괄 |
+| 🔐 사용자 기능 | 로그인 페이지, 회원가입 페이지 UI 및 백엔드 구현 | 
+| 🛠 관리자 기능 | 관리자 게시판 구축, 공지사항 CRUD 기능 개발 | 
+| 🗂 DB 설계 | 유저 테이블 구조 설계 | 
+| 🌐 공공데이터 연동 | 대기질 공공데이터 API 연동 및 JSON 파싱 | 
+| 🗺️ 지도 시각화 | Kakao Map 기반 히트맵 구현 및 좌표 변환 처리 | 
+| ⚡ 성능 최적화 | Redis 캐싱, 스케줄러 기반 데이터 자동 업데이트 | 
+| 🚀 서버 배포 | AWS EC2 기반 서버 구성 및 프로젝트 배포 |
   
 ---
 
