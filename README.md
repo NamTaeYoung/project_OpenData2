@@ -85,7 +85,7 @@
 
 ---
 
-## ✨ 기능 구성 (클릭해서 보기)
+## 🧩 기능 구성 (클릭해서 보기)
 <details>
 <summary><strong>🔐 인증 / 회원 기능</strong></summary>
 
